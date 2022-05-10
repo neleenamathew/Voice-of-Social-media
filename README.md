@@ -1,4 +1,4 @@
-# Vox-Populi - Voice of Social Media - Twitter Sentiment Analysis
+# Vox-Populi - Voice of Social Media 
 
 Vision: Our project is about reflecting the voice of millions of twitter users in India, to create value and sense from millions and zillions of tweets and hashtags
 
